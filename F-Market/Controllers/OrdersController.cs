@@ -19,6 +19,8 @@ namespace F_Market.Controllers
                 Customer = new Customer(),
                 Products = new List<ProductOrder>()
             };
+            //
+            77
 
             //var list = db.Customers.ToList();
             //list.Add(new Customer { CustomerId = 0, FullName = "[Seleccione un cliente.]" });
